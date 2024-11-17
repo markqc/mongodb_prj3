@@ -1,0 +1,11 @@
+[
+  {
+    "_id": 0,
+    "name": "Ancy",
+    "results": [
+      { "evaluation": "term1", "score": 1.463179736705023 },
+      { "evaluation": "term2", "score": 11.78273309957772 },
+      { "evaluation": "term3", "score": 6.676176060654615 }
+    ]
+  }
+]
